@@ -1,1 +1,1 @@
-# qiita-go-modules
+# Go 言語の初心者が go.mod を使って自分で作ったモジュールを引っ張ってこれるようにするまで【Go Modules】記事用のリポジトリ
